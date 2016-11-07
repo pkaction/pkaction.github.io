@@ -35,13 +35,18 @@ Most picked heroes:
 ![Dotabuff Most Picked Meta](/blob/master/_posts/postimage/dotabuff_top10_5000mmr.jpg)
 2
 ![Dotabuff Most Picked Meta](_posts/postimage/dotabuff_top10_5000mmr.jpg)
+3a
+![](https://github.com/pkaction/pkaction.github.io/blob/master/_posts/postimage/dotabuff_bottom10_5000mmr.jpg?raw=true)
+3b
+![](https://github.com/pkaction/pkaction.github.io/blob/master/_posts/postimage/dotabuff_bottom10_5000mmr.jpg)
+3c
+<img src="/blob/master/_posts/postimage/dotabuff_bottom10_5000mmr.jpg" />
 
 Least picked heroes:
 3
 ![Dotabuff Most Picked Meta](https://github.com/pkaction/pkaction.github.io/blob/master/_posts/postimage/dotabuff_bottom10_5000mmr.jpg)
 4
 ![](/blob/master/_posts/postimage/dotabuff_bottom10_5000mmr.jpg)
-
 
 Heroes like Pudge are picked in more than 35% of high level games, while the bottom 10 heroes are getting picked less than 2% of the time.  This strikes me as wrong.  
 
