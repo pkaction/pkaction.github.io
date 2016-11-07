@@ -13,7 +13,7 @@ As a person interested in game design, I'm always curious to think about how [Ic
 I wanted to share some of my own thoughts and suggestions.  I'll fully admit that I'm not a very experienced a Dota player, and I don't claim to have an expert opinion on every character's exact gameplay.  However, I think there should be **general principles** that game designers should pay attention to to decide which heroes to buff and nerf -- and importantly how.  
 
 
-> General Principles For Hero Balance
+# General Principles For Hero Balance
 
 1. Some level of equity in play rates is a goal ("hero diversity")
 2. Relative popularity and power influences the type of buff or nerf
@@ -21,7 +21,7 @@ I wanted to share some of my own thoughts and suggestions.  I'll fully admit tha
 
 
 
-##1. Some level of equity in play rates is a goal ("hero diversity")
+## 1. Some level of equity in play rates is a goal ("hero diversity")
 
 **I think all heroes should get some roughly equal level of picks.**  
 To take an extreme case, a situation where one hero is picked 90% of the games, while other heroes are seen less than 1% of the time is clearly a negative outcome.  The game could theoretically still be fairly balanced (win rates of 50%), but the game itself would suffer from a lack of variety.  **Hero diversity is important because it supports a wide range individual playstyles, and as a direct result, a wide range of team playstyles.**  This is truly one of the best aspects of Dota.
@@ -31,10 +31,16 @@ With 112 heroes, perfect equality in pick rates would be 8.9%.  However, **perfe
 My sense is that **the inequality in pick/ban rates for the heroes in 6.88 is still not equal enough**.  
 
 Most picked heroes:
-![Dotabuff Most Picked Meta](https://github.com/pkaction/pkaction.github.io/blob/master/_posts/postimage/dotabuff_top10_5000mmr.jpg)
+1
+![Dotabuff Most Picked Meta](/blob/master/_posts/postimage/dotabuff_top10_5000mmr.jpg)
+2
+![Dotabuff Most Picked Meta](_posts/postimage/dotabuff_top10_5000mmr.jpg)
 
 Least picked heroes:
+3
 ![Dotabuff Most Picked Meta](https://github.com/pkaction/pkaction.github.io/blob/master/_posts/postimage/dotabuff_bottom10_5000mmr.jpg)
+4
+![](/blob/master/_posts/postimage/dotabuff_bottom10_5000mmr.jpg)
 
 
 Heroes like Pudge are picked in more than 35% of high level games, while the bottom 10 heroes are getting picked less than 2% of the time.  This strikes me as wrong.  
@@ -44,7 +50,7 @@ Heroes like Pudge are picked in more than 35% of high level games, while the bot
 There's no scientific rule for the right ratio, but my sense is that heroes should not be picked more than ~5 times other heroes.  This would mean the pick rate gap would be something closer to the least popular heroes being closer to 4% and the post popular heroes at 20%.  Based on the 8.9% pure equality rate, this would imply that you're likely to encounter some heroes twice as often, and other heroes half as often.
 
 
-##2. Relative popularity and power influences the type of buff or nerf
+## 2. Relative popularity and power influences the type of buff or nerf
 
 I think the two key factors involved in Hero Balance should be *popularity* and *win rate*.  This might be obvious, but I think there are some nuances worth noting.
 
@@ -73,7 +79,7 @@ How to handle the heroes in Quadrant 2 and Quadrant 4 are less obvious:
 * Quadrant 4: Popular and Low Win Rate:  Increase strength, but reduce popularity
 
 
-###How to adjust the two factors?
+### How to adjust the two factors?
 
 **Adjusting Win Rate** (raising or lowering a hero's strength) is relatively simple.  There are many ways to achieve this, but the easiest thing is simply to buff or nerf the hero's powers or stats.  Buffs and nerfs should continue until the hero's win-rate is within the boundaries (48%-52% as a suggestion).
 
@@ -86,7 +92,7 @@ How to handle the heroes in Quadrant 2 and Quadrant 4 are less obvious:
 Likewise, to reduce the popularity of a hero, do the opposite.
 
 
-###Adjusting from the extremes 
+### Adjusting from the extremes 
 
 **Adjusting Which Abilities** - It's also worth considering to start buffing a weak hero's least used power.  This is a way to cause major balance issues.  Similarly to having hero diversity, it's also more likely to lead to greater diversity in heroes builds over time.  As powers within a hero become more balanced, there is more space for great players to build according to the game and situation, rather than follow a set path.
 
@@ -94,7 +100,7 @@ Likewise, to reduce the popularity of a hero, do the opposite.
 
 
 
-##3. Adjust for experienced players (but take into consideration new players)
+## 3. Adjust for experienced players (but take into consideration new players)
 
 Last note, the game should be balanced for the professionals.  These are players that should know how to play the game to the fullest.  As a proxy, I am looking at the statistics from [Dotabuff](http://www.dotabuff.com/heroes/meta), and specifically at the 5000+ MMR group.  These players should know the game, and their play should not be radically different from professionals.  
 
