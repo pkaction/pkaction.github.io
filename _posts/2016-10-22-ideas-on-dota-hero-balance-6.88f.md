@@ -31,18 +31,10 @@ With 112 heroes, perfect equality in pick rates would be 8.9%.  However, **perfe
 My sense is that **the inequality in pick/ban rates for the heroes in 6.88 is still not equal enough**.  
 
 Most picked heroes:
-1
-![Dotabuff Most Picked Meta](/blob/master/_posts/postimage/dotabuff_top10_5000mmr.jpg?raw=true)
-2
-![Dotabuff Most Picked Meta](_posts/postimage/dotabuff_top10_5000mmr.jpg?raw=true)
-3a
-![](https://github.com/pkaction/pkaction.github.io/blob/master/_posts/postimage/dotabuff_bottom10_5000mmr.jpg?raw=true)
+![Dotabuff Most Picked Meta](https://github.com/pkaction/pkaction.github.io/blob/master/_posts/postimage/dotabuff_bottom10_5000mmr.jpg?raw=true)
 
 Least picked heroes:
-3
 ![Dotabuff Most Picked Meta](https://github.com/pkaction/pkaction.github.io/blob/master/_posts/postimage/dotabuff_bottom10_5000mmr.jpg?raw=true)
-4
-![](/blob/master/_posts/postimage/dotabuff_bottom10_5000mmr.jpg?raw=true)
 
 Heroes like Pudge are picked in more than 35% of high level games, while the bottom 10 heroes are getting picked less than 2% of the time.  This strikes me as wrong.  
 
