@@ -31,7 +31,7 @@ With 112 heroes, perfect equality in pick rates would be 8.9%.  However, **perfe
 My sense is that **the inequality in pick/ban rates for the heroes in 6.88 is still not equal enough**.  
 
 Most picked heroes:
-![Dotabuff Most Picked Meta](https://github.com/pkaction/pkaction.github.io/blob/master/_posts/postimage/dotabuff_bottom10_5000mmr.jpg?raw=true)
+![Dotabuff Most Picked Meta](https://github.com/pkaction/pkaction.github.io/blob/master/_posts/postimage/dotabuff_top10_5000mmr.jpg?raw=true)
 
 Least picked heroes:
 ![Dotabuff Most Picked Meta](https://github.com/pkaction/pkaction.github.io/blob/master/_posts/postimage/dotabuff_bottom10_5000mmr.jpg?raw=true)
