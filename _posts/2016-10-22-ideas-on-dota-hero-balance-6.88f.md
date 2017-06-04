@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ideas on Dota Hero Balance in 2.88f"
+title: "Ideas on Dota Hero Balance in 6.88f"
 date: 2016-10-22
 ---
 
