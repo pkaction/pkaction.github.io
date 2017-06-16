@@ -65,7 +65,7 @@ Liquipedia is the wiki of Team Liquid.  They list out every premier professional
 ### [Dota WTF on Youtube](https://www.youtube.com/user/DarduinMyMenlon)
 These are some fun videos to have a laugh at all the crazy mechanics that can happen in Dota.  It's also a great way to understand the potential of each hero. 
 
-###[Mid or Meepo on Youtube](https://www.youtube.com/midormeepo)
+### [Mid or Meepo on Youtube](https://www.youtube.com/midormeepo)
 I think this is a high quality video that also takes you through some of the funny things that happen as a player, including dealing with toxic players, trying to climb MMR, and commenting on fads that are happening in Dota (like jungle LC).  
 
 
